@@ -2,6 +2,7 @@
 This is the source code for paper "Enhancing Privacy in Federated Learning via Early Exit"
 
 Please cite as:
+
 @inproceedings{10.1145/3584684.3597274,
 author = {Wu, Yashuo and Chiasserini, Carla Fabiana and Malandrino, Francesco and Levorato, Marco},
 title = {Invited Paper: Enhancing Privacy in Federated Learning via Early Exit},
