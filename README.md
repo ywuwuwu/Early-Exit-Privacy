@@ -4,6 +4,7 @@ This is the source code for paper "Enhancing Privacy in Federated Learning via E
 Please cite as:
 
 @inproceedings{10.1145/3584684.3597274,
+
 author = {Wu, Yashuo and Chiasserini, Carla Fabiana and Malandrino, Francesco and Levorato, Marco},
 
 title = {Invited Paper: Enhancing Privacy in Federated Learning via Early Exit},
@@ -27,8 +28,11 @@ booktitle = {Proceedings of the 5th Workshop on Advanced Tools, Programming Lang
 articleno = {10},
 
 numpages = {5},
+
 keywords = {federated learning, early exit, neural networks, membership inference attacks, deep learning},
+
 location = {Orlando, FL, USA},
+
 series = {ApPLIED 2023}
 }
 
